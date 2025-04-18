@@ -1,0 +1,12 @@
+[submodule "HPM-MVS_plusplus"]
+	path = HPM-MVS_plusplus
+	url = https://github.com/gaborpelesz/HPM-MVS_plusplus
+[submodule "APD-MVS"]
+	path = APD-MVS
+	url = https://github.com/gaborpelesz/APD-MVS.git
+[submodule "ACMMP"]
+	path = ACMMP
+	url = https://github.com/gaborpelesz/ACMMP.git
+[submodule "HPM-MVS"]
+	path = HPM-MVS
+	url = https://github.com/gaborpelesz/HPM-MVS.git
