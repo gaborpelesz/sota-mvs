@@ -22,3 +22,6 @@
 [submodule "ACMP"]
 	path = ACMP
 	url = https://github.com/gaborpelesz/ACMP.git
+[submodule "ACMM"]
+	path = ACMM
+	url = https://github.com/gaborpelesz/ACMM.git
