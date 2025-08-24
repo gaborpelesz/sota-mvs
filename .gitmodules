@@ -25,3 +25,6 @@
 [submodule "ACMM"]
 	path = ACMM
 	url = https://github.com/gaborpelesz/ACMM.git
+[submodule "MP-MVS"]
+	path = MP-MVS
+	url = https://github.com/gaborpelesz/MP-MVS.git
