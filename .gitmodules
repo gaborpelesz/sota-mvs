@@ -1,30 +1,30 @@
 [submodule "HPM-MVS_plusplus"]
-	path = HPM-MVS_plusplus
+	path = methods/HPM-MVS_plusplus
 	url = https://github.com/gaborpelesz/HPM-MVS_plusplus
 [submodule "APD-MVS"]
-	path = APD-MVS
+	path = methods/APD-MVS
 	url = https://github.com/gaborpelesz/APD-MVS.git
 [submodule "ACMMP"]
-	path = ACMMP
+	path = methods/ACMMP
 	url = https://github.com/gaborpelesz/ACMMP.git
 [submodule "HPM-MVS"]
-	path = HPM-MVS
+	path = methods/HPM-MVS
 	url = https://github.com/gaborpelesz/HPM-MVS.git
-[submodule "gipuma"]
-	path = gipuma
-	url = https://github.com/gaborpelesz/gipuma.git
 [submodule "ACMH"]
-	path = ACMH
+	path = methods/ACMH
 	url = https://github.com/gaborpelesz/ACMH.git
 [submodule "cuda-multi-view-stereo"]
-	path = cuda-multi-view-stereo
+	path = methods/cuda-multi-view-stereo
 	url = https://github.com/gaborpelesz/cuda-multi-view-stereo.git
 [submodule "ACMP"]
-	path = ACMP
+	path = methods/ACMP
 	url = https://github.com/gaborpelesz/ACMP.git
 [submodule "ACMM"]
-	path = ACMM
+	path = methods/ACMM
 	url = https://github.com/gaborpelesz/ACMM.git
 [submodule "MP-MVS"]
-	path = MP-MVS
+	path = methods/MP-MVS
 	url = https://github.com/gaborpelesz/MP-MVS.git
+[submodule "methods/DPE-MVS"]
+	path = methods/DPE-MVS
+	url = https://github.com/gaborpelesz/DPE-MVS.git
